@@ -37,7 +37,7 @@
     "/src"
   ],
   "dependencies": {
-    "request": "2.88.0",
+    "request": "2.88.2",
     "intelligo": "1.3.0"
   },
   "devDependencies": {
